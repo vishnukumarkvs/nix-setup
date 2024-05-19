@@ -19,3 +19,10 @@ nixpkgs.config.allowInsecurePackages = true;
 - `alias nhs='nix run nixpkgs#home-manager -- switch --flake nix/#$USER'` in .bashrc and do source ~./bashrc
 
 TIP : Use home-manager like this - nix run nixpkgs#home-manager
+
+## Top NixOs configurations
+- https://nixos.wiki/wiki/Configuration_Collection
+
+## nixGL
+- https://github.com/nix-community/nixGL
+- maight be still incomplete
