@@ -26,3 +26,6 @@ TIP : Use home-manager like this - nix run nixpkgs#home-manager
 ## nixGL
 - https://github.com/nix-community/nixGL
 - maight be still incomplete
+
+# NixOs setup
+https://www.youtube.com/watch?v=QKoQ1gKJY5A&list=PL-saUBvIJzOkjAw_vOac75v-x6EzNzZq-

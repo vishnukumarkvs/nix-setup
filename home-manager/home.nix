@@ -29,7 +29,6 @@
     xsel
     eksctl
     telegram-desktop
-    qbittorrent
  ];
 
   programs.home-manager.enable = true;
