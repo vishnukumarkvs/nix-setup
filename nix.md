@@ -29,3 +29,8 @@ TIP : Use home-manager like this - nix run nixpkgs#home-manager
 
 # NixOs setup
 https://www.youtube.com/watch?v=QKoQ1gKJY5A&list=PL-saUBvIJzOkjAw_vOac75v-x6EzNzZq-
+
+## brew on ubuntu
+https://www.baeldung.com/linux/homebrew#:~:text=1.-,Overview,into%20the%20command%2Dline%20interface.
+
+systemctl --user restart pipewire
