@@ -15,6 +15,8 @@ nixpkgs.config.allowInsecurePackages = true;
 - nix run nixpkgs#home-manager -- switch --flake nix/#$USER
 - home-manager remove-generations --keep 3
 - nix-collect-garbage -d
+- nix flake update
+- nix store gc
 
 - `alias nhs='nix run nixpkgs#home-manager -- switch --flake nix/#$USER'` in .bashrc and do source ~./bashrc
 

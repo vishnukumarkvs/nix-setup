@@ -27,7 +27,7 @@
     gopls
     python3
     rustup
-    jdk22
+    jdk23
     parallel
     mongosh
     mongodb-tools
@@ -37,7 +37,6 @@
     helix
     xsel
     eksctl
-    telegram-desktop
     velero
     eks-node-viewer
     terraform
@@ -75,6 +74,8 @@
     jsonnet-bundler
     fish
     eza
+    nushell
+    yazi
     #krew
  ];
   programs.home-manager.enable = true;
