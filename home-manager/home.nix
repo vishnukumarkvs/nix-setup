@@ -7,7 +7,7 @@
   ];
   home.username = "vishnukvs";
   home.homeDirectory = "/home/vishnukvs";
-  home.stateVersion = "23.05";
+  home.stateVersion = "24.11";
   targets.genericLinux.enable = true;
   home.packages = with pkgs; [
     btop
@@ -76,6 +76,7 @@
     eza
     nushell
     yazi
+    #ghostty
     #krew
  ];
   programs.home-manager.enable = true;
